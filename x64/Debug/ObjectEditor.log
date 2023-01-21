@@ -1,2 +1,16 @@
 ﻿  Main.cpp
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(64,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(173,126): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(173,159): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(176,79): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(179,131): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(179,163): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(191,90): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(194,75): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(197,92): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(200,112): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(209,80): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(212,80): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(215,80): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\openGL\ObjectEditor\Main.cpp(218,88): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   ObjectEditor.vcxproj -> C:\Users\00kwo\source\repos\openGL\x64\Debug\ObjectEditor.exe
